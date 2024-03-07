@@ -1,0 +1,11 @@
+[submodule "wlp-backend"]
+	path = wlp-backend
+	url = https://github.com/fs-ferreira/wlp-backend.git
+
+[submodule "wlp-frontend"]
+	path = wlp-frontend
+	url = https://github.com/fs-ferreira/wlp-frontend.git
+
+[submodule "wlp-mobile"]
+	path = wlp-mobile
+	url = https://github.com/fs-ferreira/wlp-mobile.git
